@@ -81,3 +81,6 @@ hr {
 .portada {
     display: flex;
 }
+footer {
+    background-color: #a7a7a7;
+}
